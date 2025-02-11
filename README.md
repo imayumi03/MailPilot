@@ -49,8 +49,5 @@ Ensure you have installed:
 
 ### **2️⃣ Clone the Project**  
 ```bash
-git clone https://github.com/your-repo/MailPilot.git
+git clone https://github.com/imayumi03/MailPilot.git
 cd MailPilot
-![WhatsApp Image 2024-06-20 à 08 47 23_aa3e02b6](https://github.com/user-attachments/assets/dd0c4ce8-68e4-4266-bdd3-de773acce08a)
-![WhatsApp Image 2024-06-20 à 08 47 26_6ecdaca6](https://github.com/user-attachments/assets/3cfca5b0-9629-4d17-becc-c429fc803310)
-![WhatsApp Image 2024-06-20 à 08 47 23_5b9db327](https://github.com/user-attachments/assets/103028eb-401c-43f0-9139-9be0bffc60ea)
