@@ -9,8 +9,7 @@ from llama_index.embeddings.openai import OpenAIEmbedding
 from llama_index.llms.openai import OpenAI
 from llama_index.core import StorageContext, load_index_from_storage
 import openai
-from llama_index.core.node_parser import (
-    SentenceSplitter)
+from llama_index.core.node_parser import (SentenceSplitter)
 
 nest_asyncio.apply()
 load_dotenv()
@@ -18,7 +17,7 @@ logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
 def initialize_and_persist_vectorstore(dir_path, persist_dir):
-    api_key = "sk-proj-vHbGimMSVyxKKCd0KKVXT3BlbkFJ7jH1F0rVIQAvJPokrAN7"
+    api_key = "YOUR_API_KEY"
     if not api_key:
         openai.api_key = api_key
 
