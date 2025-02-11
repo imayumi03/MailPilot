@@ -1,0 +1,53 @@
+Subject: Successful sign-in for marwane.kassa@centrale-casablanca.ma from new device
+Sender: MongoDB Cloud
+Received Time: 2024-06-14 15:05:12.990000+00:00
+Body: 	Vous ne recevez pas souvent de courriers de la part de cloud-manager-support@mongodb.com. Découvrez pourquoi cela est important  
+
+	
+
+	
+
+  	
+
+	
+
+		
+
+We're verifying a recent sign-in for marwane.kassa@centrale-casablanca.ma: 
+
+
+
+Timestamp:	 2024-06-14 14:05:05 GMT	 
+
+IP Address:	 154.144.241.80	 
+
+User agent:	 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36	 
+
+
+
+You're receiving this message because of a successful sign-in from a device that we didn’t recognize. If you believe that this sign-in is suspicious, please reset your password immediately.   
+
+
+
+If you're aware of this sign-in, please disregard this notice. This can happen when you use your browser's incognito or private browsing mode or clear your cookies. 
+
+
+
+Thanks,
+
+
+
+MongoDB Team 
+
+
+
+	
+
+This message was sent from MongoDB, Inc., 1633 Broadway, 38th floor, NY, NY 10019 	
+
+	
+
+	
+
+	
+

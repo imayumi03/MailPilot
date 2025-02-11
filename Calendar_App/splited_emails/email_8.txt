@@ -1,0 +1,279 @@
+Subject: Demystifying PDF Parsing 02: Pipeline-Based Method | Florian June in AI Advances
+Sender: Medium Daily Digest
+Received Time: 2024-06-23 07:41:14.190000+00:00
+Body:   
+
+  
+
+Stories for Marwane Kassa  
+
+@marwane.kassa  ·Become a member  
+
+  
+
+
+
+Today's highlights
+
+
+
+ 
+
+  
+
+Florian June   in AI Advances  ·
+
+18 min read
+
+  
+
+ 
+
+Demystifying PDF Parsing 02: Pipeline-Based Method
+
+Overview, Implementation Strategies and Insights
+
+ 
+
+  
+
+Edwindoit  ·
+
+5 min read
+
+ 
+
+Killer apps to organize your digital workspace — 2024 edition
+
+This is the digital setup I use to be more effective in 2024. The purpose of my workspace is to optimize…
+
+ 
+
+  
+
+Júlio Almeida   in Towards AI  ·
+
+6 min read
+
+  
+
+ 
+
+Phi-3 and Azure: PDF Data Extraction | ExtractThinker
+
+How to combine Azure Document Intelligence and Phi-3 to extract data from files
+
+ 
+
+  
+
+Aaron Dinin, PhD   in The Startup  ·
+
+4 min read
+
+  
+
+ 
+
+Are You Accidentally Building the Second Hardest Type of Startup?
+
+Most people don’t even realize the problem until it’s too late
+
+ 
+
+  
+
+Practicus AI   in Level Up Coding  ·
+
+9 min read
+
+  
+
+ 
+
+The 5 Prompt Engineering Techniques AI Engineers Need to Know
+
+⭐ I highly recommend joining our Mighty Quotes Group. We are over 12,000 people learning the deeper meaning…
+
+ 
+
+  
+
+Melissa Richard  ·
+
+18 min read
+
+ 
+
+New Computer Setup for Techies 2024: NeoVim and Ollama and fish, oh my!
+
+Greetings Cloudlings!!
+
+ 
+
+  
+
+Andrew Best   in Artificial Intelligence in Plain English  ·
+
+3 min read
+
+  
+
+ 
+
+You are Using ChatGPT Wrong! — #1 Mistake 99% of Users Make
+
+Prompt Engineering “Gurus” are recommending this same prompting mistake over and over again.
+
+ 
+
+  
+
+Tessa Rowan  ·
+
+3 min read
+
+  
+
+ 
+
+A Boring Idea Turned into $9273 per Month Business
+
+Discover How You Can Transform Simple Ideas into Revenue-Generating Ventures
+
+ 
+
+  
+
+Dr. Walid Soula   in ILLUMINATION  ·
+
+6 min read
+
+  
+
+ 
+
+List of Different Ways to Run LLMs Locally
+
+In this article we will see different ways to run any LLMs locally, Pin this article so you can test…
+
+ 
+
+  
+
+Uzman Ali  ·
+
+4 min read
+
+  
+
+ 
+
+How This Kid Made $30,000,000 at the Age of 17
+
+Story of a genius kid, who sold his ideas for millions
+
+ 
+
+  
+
+Daniel Warfield   in Towards Data Science  ·
+
+47 min read
+
+  
+
+ 
+
+CUDA for AI — Intuitively and Exhaustively Explained
+
+Parallelized AI from scratch in CUDA
+
+ 
+
+  
+
+Chris Messina  ·
+
+3 min read
+
+  
+
+ 
+
+Did Apple just declare war on OpenAI?
+
+Does the Internet Accounts prefpane predict ChatGPT’s fate?
+
+ 
+
+  
+
+Ling Huang  ·
+
+7 min read
+
+  
+
+ 
+
+Large Language Model — LLM Model Deployment
+
+With the continuous development of AI, LLM has gradually expanded from a single natural language processing…
+
+ 
+
+  
+
+Shenggang Li   in DataDrivenInvestor  ·
+
+12 min read
+
+  
+
+ 
+
+Time Series Forecasting: A Comparative Analysis of SARIMAX, RNN, LSTM, Prophet…
+
+Assessing the Efficiency and Efficacy of Leading Forecasting Algorithms Across Diverse Datasets
+
+ 
+
+  
+
+Peter Flook   in Data Engineer Things  ·
+
+9 min read
+
+  
+
+ 
+
+Providing your documents to an LLM on your laptop
+
+A step-by-step example of how you can provide your own set of documents to an LLM to answer your questions…
+
+
+
+See more of what you like and less of what you don’t.
+
+
+
+Control your recommendations  
+
+
+
+Read from anywhere.
+
+
+
+  
+
+  
+
+Sent by Medium  ·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+
+Unsubscribe   from this type of email·Switch to the Weekly Digest  ·Careers  ·Help Center  ·Privacy Policy  ·Terms of service  
+
+  
+

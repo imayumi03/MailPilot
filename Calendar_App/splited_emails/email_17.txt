@@ -1,0 +1,277 @@
+Subject: Let’s Talk About The Real Reason For All These Tech Layoffs | Joe Procopio in Entrepreneurship Handbook
+Sender: Medium Daily Digest
+Received Time: 2024-06-20 07:40:19.634000+00:00
+Body:   
+
+  
+
+Stories for Marwane Kassa  
+
+@marwane.kassa  ·Become a member  
+
+  
+
+
+
+Today's highlights
+
+
+
+ 
+
+  
+
+Joe Procopio   in Entrepreneurship Handbook  ·
+
+5 min read
+
+  
+
+ 
+
+Let’s Talk About The Real Reason For All These Tech Layoffs
+
+The slew of tech job cuts are a massive mistake but also probably unavoidable
+
+ 
+
+  
+
+Zhimin Zhan  ·
+
+11 min read
+
+  
+
+ 
+
+What Happened to ThoughtWorks?
+
+Why has a leading software technical consultancy firm, once renowned for its innovation and positive impact…
+
+ 
+
+  
+
+Salvatore Raieli   in Level Up Coding  ·
+
+10 min read
+
+  
+
+ 
+
+Maybe GPT Isn’t the Best: BERTs Can Master Generative In-Context Learning
+
+Challenging AI Paradigms with DeBERTa’s Surprising Capabilities
+
+ 
+
+  
+
+(λx.x)eranga   in Effectz.AI  ·
+
+16 min read
+
+ 
+
+Build RAG Application Using a LLM Running on Local Computer with Ollama and…
+
+Privacy-preserving LLM without GPU
+
+ 
+
+  
+
+Aniket Hingane   in Artificial Intelligence in Plain English  ·
+
+15 min read
+
+  
+
+ 
+
+AI Agents: The Secret Sauce for Building a Successful Startup: Part 2
+
+Your AI Workforce: Roles, Goals, and Backstories Unveiled
+
+ 
+
+  
+
+Kasper Junge  ·
+
+3 min read
+
+ 
+
+20 Most Downloaded Python Packages Explained
+
+Python is a powerhouse in the programming world, and its wide array of packages is a big part of its appeal…
+
+ 
+
+  
+
+Wei Lu  ·
+
+3 min read
+
+  
+
+ 
+
+Intel Core Ultra 5 vs. Apple M1 on LLM inference
+
+I bought an Intel “AI PC” equipped with a Core Ultra 5 125H and 96GB of memory, which means a graphics card…
+
+ 
+
+  
+
+Salujav  ·
+
+5 min read
+
+ 
+
+Parsing PDFs(text, image and tables) for RAG based applications using…
+
+In this article, we are going to show how the recent LlamaParse Reader update from LlamaIndex is going to…
+
+ 
+
+  
+
+Tim Cvetko   in Towards AI  ·
+
+4 min read
+
+  
+
+ 
+
+I tested Apple’s new MLX framework against Torch on M2 Air
+
+MLX vs Torch on BERT — Training, Inference, and CPU Usage Comparison
+
+ 
+
+  
+
+Gouse MG  ·
+
+4 min read
+
+  
+
+ 
+
+Revolutionizing Table Extraction with Table Transformers Part-1🚀
+
+Unlocking the Future of Document Understanding:
+
+ 
+
+  
+
+zhaozhiming   in AI Advances  ·
+
+16 min read
+
+  
+
+ 
+
+Advanced RAG Retrieval Strategies: Flow and Modular
+
+We’ve discussed many advanced Retrieval Augmented Generation (RAG) retrieval strategies, each akin to a…
+
+ 
+
+  
+
+Shannon D. Smith   in The Unscripted  ·
+
+4 min read
+
+  
+
+ 
+
+3 Burnout Stages Every ADHD Brain Experiences
+
+(and my science-backed strategies to reclaim energy and focus.)
+
+ 
+
+  
+
+Jordan Gibbs  ·
+
+4 min read
+
+  
+
+ 
+
+My Favorite GPTs (so far)
+
+A list of GPTs that I have found most useful and innovative.
+
+ 
+
+  
+
+AL Anany  ·
+
+6 min read
+
+  
+
+ 
+
+Google Shot Itself in the Foot Before Anyone Else Had a Chance.
+
+There was never a code red.
+
+ 
+
+  
+
+Arslan Shahid   in FireBird Technologies  ·
+
+9 min read
+
+ 
+
+Building an Agent for Data Visualization (Plotly)
+
+ReAct Agent for data visualizations
+
+  
+
+
+
+See more of what you like and less of what you don’t.
+
+
+
+Control your recommendations  
+
+
+
+Read from anywhere.
+
+
+
+  
+
+  
+
+Sent by Medium  ·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+
+Unsubscribe   from this type of email·Switch to the Weekly Digest  ·Careers  ·Help Center  ·Privacy Policy  ·Terms of service  
+
+  
+

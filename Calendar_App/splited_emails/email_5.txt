@@ -1,0 +1,279 @@
+Subject: 7 Things I Should’ve Learnt Much Earlier For Python Functions | Liu Zuo Lin in Level Up Coding
+Sender: Medium Daily Digest
+Received Time: 2024-06-24 07:41:13.728000+00:00
+Body:   
+
+  
+
+Stories for Marwane Kassa  
+
+@marwane.kassa  ·Become a member  
+
+  
+
+
+
+Today's highlights
+
+
+
+ 
+
+  
+
+Liu Zuo Lin   in Level Up Coding  ·
+
+5 min read
+
+  
+
+ 
+
+7 Things I Should’ve Learnt Much Earlier For Python Functions
+
+# But somehow didn’t
+
+ 
+
+  
+
+Uzman Ali   in Write the 1%  ·
+
+3 min read
+
+  
+
+ 
+
+The Solopreneur: He Makes $2M With 0 Employees
+
+The rare journey of the creator
+
+ 
+
+  
+
+Santiago M. Quintero  ·
+
+10 min read
+
+ 
+
+How to do a startup, according to YC data
+
+Lessons learned from studying 4,000+ YC Companies
+
+ 
+
+  
+
+JuanBa Tomás  ·
+
+4 min read
+
+  
+
+ 
+
+My 25 startup ideas: 2024 edition
+
+Either you find them useful or thought-provoking, comment down below, propose your own idea and let’s discuss…
+
+ 
+
+  
+
+Andreas Stöckl   in DataDrivenInvestor  ·
+
+7 min read
+
+ 
+
+New Chunking Method for RAG-Systems
+
+Enhanced Document Splitting
+
+ 
+
+  
+
+Kishor K  ·
+
+10 min read
+
+  
+
+ 
+
+AI Agents: The Profitable Future You Can’t Ignore (Unlock Profitable…
+
+Discover how AI agents are revolutionizing industries & creating massive profit potential. Learn how to…
+
+ 
+
+  
+
+Tobias Charles   in Career Paths  ·
+
+5 min read
+
+  
+
+ 
+
+This Is How You Spot A Manager Who’s Genuinely Great
+
+What I’ve learned from decades in the workforce about recognising subtle signs you’re in good hands
+
+ 
+
+  
+
+Aniket Hingane  ·
+
+6 min read
+
+  
+
+ 
+
+Flow Engineering : Why It’s Future of Coding in the Age of AI
+
+Revolutionary approach to reshape the way we write code with the aid of AI
+
+ 
+
+  
+
+Jake Roper   in Better Marketing  ·
+
+7 min read
+
+  
+
+ 
+
+How This Chrome Extension Used Simple Marketing To Get Acquired By PayPal For…
+
+The incredible story of how a ‘small’ Chrome extension used simple tactics to secure a multi-billion dollar…
+
+ 
+
+  
+
+Dave Schools   in Entrepreneurship Handbook  ·
+
+6 min read
+
+  
+
+ 
+
+The $385k Domain We Never Should Have Bought
+
+Recent stories and tips for buying great domains for your new product or business idea
+
+ 
+
+  
+
+Dario Radečić   in Towards Data Science  ·
+
+10 min read
+
+  
+
+ 
+
+Python One Billion Row Challenge — From 10 Minutes to 4 Seconds
+
+The one billion row challenge is exploding in popularity. How well does Python stack up?
+
+ 
+
+  
+
+Luca Restagno  ·
+
+6 min read
+
+ 
+
+I’ve sold my 4th SaaS as a solopreneur. The backstory.
+
+I have great news, I sold my 4th SaaS product!
+
+ 
+
+  
+
+Andrew Best   in Artificial Intelligence in Plain English  ·
+
+3 min read
+
+  
+
+ 
+
+GPT-4o — Are We being LIED to?
+
+Are we being lied to by Open AI (and others) about how quickly AI is improving?
+
+ 
+
+  
+
+Dylan Cooper  in Stackademic  ·
+
+7 min read
+
+  
+
+ 
+
+Google Python Team Entirely Laid Off, Flutter Team Also “Facing the Axe”
+
+Google’s good news and bad news came very suddenly.
+
+ 
+
+  
+
+Yennhi95zz   in Data And Beyond  ·
+
+9 min read
+
+  
+
+ 
+
+How to Easily Automate Web Scraping with a Simple Data Pipeline
+
+LLM for fully automated web scraping, creating an end-to-end data extraction process that streamlines your…
+
+  
+
+
+
+See more of what you like and less of what you don’t.
+
+
+
+Control your recommendations  
+
+
+
+Read from anywhere.
+
+
+
+  
+
+  
+
+Sent by Medium  ·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+
+Unsubscribe   from this type of email·Switch to the Weekly Digest  ·Careers  ·Help Center  ·Privacy Policy  ·Terms of service  
+
+  
+

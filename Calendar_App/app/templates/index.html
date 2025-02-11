@@ -1,0 +1,174 @@
+{% extends "base.html" %} {% block title %} Dashboard {% endblock %} {% block
+content %}
+<div class="content-container">
+  <div class="left-content">
+    <h2>Aujourd'hui</h2>
+    <div class="today-events">
+      <div id="today-events">
+        <!-- Les événements d'aujourd'hui seront chargés ici dynamiquement -->
+      </div>
+    </div>
+    <h2>ToDo List</h2>
+    <div class="todo-list">
+      <div class="todo-header">
+        <div class="filter-btn-group">
+          <button class="filter-btn active" onclick="filterTasks('all')">
+            ALL
+          </button>
+          <button class="filter-btn" onclick="filterTasks('pending')">
+            PENDING
+          </button>
+          <button class="filter-btn" onclick="filterTasks('completed')">
+            COMPLETED
+          </button>
+        </div>
+      </div>
+      <ul class="todo-items">
+        <li class="todo-item">
+          <input type="checkbox" id="task1" />
+          <label for="task1">Read recommended book again</label>
+        </li>
+        <li class="todo-item">
+          <input type="checkbox" id="task2" />
+          <label for="task2">Vacation planning</label>
+        </li>
+        <li class="todo-item">
+          <input type="checkbox" id="task3" />
+          <label for="task3">Cook dinner</label>
+        </li>
+        <li class="todo-item">
+          <input type="checkbox" id="task4" />
+          <label for="task4">Sign up for training</label>
+        </li>
+      </ul>
+      <button class="add-btn" onclick="openTaskModal()">+</button>
+    </div>
+  </div>
+  <div class="right-content">
+    <h2>Événements à venir</h2>
+    <div class="events-list">
+      <div id="upcoming-events-container">
+        <div id="upcoming-events">
+          <!-- Les événements à venir seront chargés ici dynamiquement -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal pour ajouter des tâches -->
+<div id="taskModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeTaskModal()">&times;</span>
+    <h2>Ajouter une nouvelle tâche</h2>
+    <input
+      type="text"
+      id="newTaskInput"
+      placeholder="Entrez votre tâche ici..."
+    />
+    <button onclick="addNewTask()">Ajouter</button>
+  </div>
+</div>
+{% endblock %} {% block scripts %}
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    fetch("/events")
+      .then((response) => response.json())
+      .then((events) => {
+        const upcomingEventsContainer =
+          document.getElementById("upcoming-events");
+        const todayEventsContainer = document.getElementById("today-events");
+        const today = new Date().toISOString().split("T")[0];
+
+        events.forEach((event) => {
+          const eventDate = new Date(event.start).toISOString().split("T")[0];
+          const eventElement = document.createElement("div");
+          eventElement.classList.add("event-item");
+          eventElement.innerHTML = `
+                <p>${eventDate}</p>
+                <p>${event.title}</p>
+                <p>${event.description}</p>
+                <p>${event.location}</p>
+              `;
+          if (eventDate === today) {
+            const todayEventElement = document.createElement("div");
+            todayEventElement.classList.add("today-event-item");
+            todayEventElement.innerHTML = `
+                  <p>${new Date(event.start).toLocaleTimeString([], {
+                    hour: "2-digit",
+                    minute: "2-digit",
+                  })} - 
+                     ${new Date(event.end).toLocaleTimeString([], {
+                       hour: "2-digit",
+                       minute: "2-digit",
+                     })}</p>
+                  <p>${event.title}</p>
+                  <p>${event.description}</p>
+                  <p>${event.location}</p>
+                `;
+            todayEventsContainer.appendChild(todayEventElement);
+          } else {
+            upcomingEventsContainer.appendChild(eventElement);
+          }
+        });
+      });
+  });
+
+  function openTaskModal() {
+    document.getElementById("taskModal").style.display = "block";
+  }
+
+  function closeTaskModal() {
+    document.getElementById("taskModal").style.display = "none";
+  }
+
+  function addNewTask() {
+    const taskInput = document.getElementById("newTaskInput");
+    const taskValue = taskInput.value.trim();
+    if (taskValue) {
+      const todoItems = document.querySelector(".todo-items");
+      const newTask = document.createElement("li");
+      newTask.classList.add("todo-item");
+      newTask.innerHTML = `
+            <input type="checkbox" id="task${Date.now()}" />
+            <label for="task${Date.now()}">${taskValue}</label>
+          `;
+      todoItems.appendChild(newTask);
+      taskInput.value = "";
+      closeTaskModal();
+    }
+  }
+
+  function filterTasks(status) {
+    const allTasks = document.querySelectorAll(".todo-item");
+    allTasks.forEach((task) => {
+      switch (status) {
+        case "all":
+          task.style.display = "flex";
+          break;
+        case "pending":
+          if (!task.querySelector("input").checked) {
+            task.style.display = "flex";
+          } else {
+            task.style.display = "none";
+          }
+          break;
+        case "completed":
+          if (task.querySelector("input").checked) {
+            task.style.display = "flex";
+          } else {
+            task.style.display = "none";
+          }
+          break;
+      }
+    });
+
+    document.querySelectorAll(".filter-btn").forEach((btn) => {
+      btn.classList.remove("active");
+    });
+    document
+      .querySelector(`.filter-btn-group .${status}`)
+      .classList.add("active");
+  }
+</script>
+{% endblock %}

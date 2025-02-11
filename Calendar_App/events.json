@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Demande de reunion",
+        "start": "2024-05-06T10:00:00",
+        "end": "2024-05-06T11:00:00",
+        "description": "Réunion pour préparer la prochaine réunion sur les choix des électifs.",
+        "location": "Non spécifié"
+    },
+    {
+        "title": "Demande de reunion",
+        "start": "2024-05-08T14:00:00",
+        "end": "2024-05-08T15:00:00",
+        "description": "Réunion pour préparer la prochaine réunion sur les choix des électifs.",
+        "location": "Non spécifié"
+    },
+    {
+        "title": "Demande de reunion",
+        "start": "2024-05-10T16:00:00",
+        "end": "2024-05-10T17:00:00",
+        "description": "Réunion pour préparer la prochaine réunion sur les choix des électifs.",
+        "location": "Non spécifié"
+    },
+    {
+        "title": "Cérémonie de Remise des Prix",
+        "start": "2024-06-25T17:30:00",
+        "end": "2024-06-25T18:30:00",
+        "description": "Cérémonie organisée par le Bureau Des Sports pour célébrer les performances sportives.",
+        "location": "Amphithéâtre 1, École Centrale Casablanca"
+    },
+    {
+        "title": "Soutenance de M. KASSA Marwane",
+        "start": "2024-07-11T08:30:00",
+        "end": "2024-07-11T09:05:00",
+        "description": "Soutenance de M. KASSA Marwane à l’École Centrale Casablanca.",
+        "location": "École Centrale Casablanca"
+    },
+    {
+        "title": "Déjeuner collectif/Eid El Ahda",
+        "start": "2024-06-17T15:00:00",
+        "end": "2024-06-17T16:00:00",
+        "description": "Déjeuner collectif à l'occasion de la fête de Tabaski 2024.",
+        "location": "Newrest"
+    },
+    {
+        "title": "Tournoi de foot et de basketball",
+        "start": "2024-06-17T18:00:00",
+        "end": "2024-06-17T20:00:00",
+        "description": "Tournoi de foot et de basketball à l'occasion de la fête de Tabaski 2024.",
+        "location": "Non spécifié"
+    },
+    {
+        "title": "Webinar: Intro to Atlas Search",
+        "start": "2024-06-26T11:00:00",
+        "end": "2024-06-26T12:00:00",
+        "description": "Webinar sur les capacités de recherche avec MongoDB Atlas Search.",
+        "location": "En ligne"
+    },
+    {
+        "title": "Deep Dive into Amazon Q - Episode 1",
+        "start": "2024-06-28T08:00:00",
+        "end": "2024-06-28T09:00:00",
+        "description": "Introduction à l'IA générative avec Amazon Q.",
+        "location": "En ligne"
+    }
+]

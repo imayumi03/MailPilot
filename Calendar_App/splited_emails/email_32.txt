@@ -1,0 +1,273 @@
+Subject: Agentic RAG With Llama-index | Router Query Engine #01 | Prince Krampah in 𝐀𝐈 𝐦𝐨𝐧𝐤𝐬.𝐢𝐨
+Sender: Medium Daily Digest
+Received Time: 2024-06-15 07:40:16.296000+00:00
+Body:   
+
+  
+
+Stories for Marwane Kassa  
+
+@marwane.kassa  ·Become a member  
+
+  
+
+
+
+Today's highlights
+
+
+
+ 
+
+  
+
+Prince Krampah   in 𝐀𝐈 𝐦𝐨𝐧𝐤𝐬.𝐢𝐨  ·
+
+10 min read
+
+ 
+
+Agentic RAG With Llama-index | Router Query Engine #01
+
+Tired of the good old RAG (Retrieval Augmented Generation) systems we have extensively covered in my blog…
+
+ 
+
+  
+
+Andrew Best   in Artificial Intelligence in Plain English  ·
+
+3 min read
+
+  
+
+ 
+
+You are Using ChatGPT Wrong! — #1 Mistake 99% of Users Make
+
+Prompt Engineering “Gurus” are recommending this same prompting mistake over and over again.
+
+ 
+
+  
+
+Andreas Stöckl   in DataDrivenInvestor  ·
+
+7 min read
+
+ 
+
+New Chunking Method for RAG-Systems
+
+Enhanced Document Splitting
+
+ 
+
+  
+
+Aaron Dinin, PhD   in Entrepreneurship Handbook  ·
+
+5 min read
+
+  
+
+ 
+
+Startup Founders Need to Know the Right Way to Spend Money
+
+There’s a big difference between being cheap and being stupid
+
+ 
+
+  
+
+Yifeng Hou  ·
+
+4 min read
+
+  
+
+ 
+
+RAG 2.0? How’s It Different from RAG 1.0?
+
+Exploring the Next Generation of AI Tools: Simplicity Meets Efficiency
+
+ 
+
+  
+
+Yeyu Huang   in Level Up Coding  ·
+
+8 min read
+
+  
+
+ 
+
+How to Create an Interactive UI for CrewAI Applications
+
+A Quick Tutorial of CrewAI + Panel with Human Interaction
+
+ 
+
+  
+
+Daniel Ganninger   in Knowledge Stew  ·
+
+3 min read
+
+  
+
+ 
+
+The Truth About ‘Close Door’ Elevator Buttons
+
+The ‘close door’ button on an elevator doesn’t do what you would expect it to do.
+
+ 
+
+  
+
+C. L. Beard   in BrainScriblr  ·
+
+4 min read
+
+  
+
+ 
+
+Advanced Open Source AI LLMs
+
+Cutting edge resources for devs
+
+ 
+
+  
+
+Tessa Schlesinger Global Atheist Am Yisrael Chai.   in Tessa’s Web-log  ·
+
+7 min read
+
+  
+
+ 
+
+How Do You Recognize Someone Truly Intelligent?
+
+There is only one characteristic that separates them from others.
+
+ 
+
+  
+
+Júlio Almeida   in Towards AI  ·
+
+6 min read
+
+  
+
+ 
+
+Phi-3 and Azure: PDF Data Extraction | ExtractThinker
+
+How to combine Azure Document Intelligence and Phi-3 to extract data from files
+
+ 
+
+  
+
+Kamal Dhungana   in GoPenAI  ·
+
+10 min read
+
+  
+
+ 
+
+RAG Application with Neo4j-Constructed Knowledge Graphs and Vector Index
+
+Very recently I came across this article which serves as a comprehensive guide for building GenAI…
+
+ 
+
+  
+
+01coder   in AI Advances  ·
+
+5 min read
+
+  
+
+ 
+
+Local Rerank API | Improve Retrieval Quality in 100% Local RAG
+
+Reranking will boost up retrieval quality in RAG system. Cohere Rerank is the industry leading API service…
+
+ 
+
+  
+
+Raunak Jain  ·
+
+15 min read
+
+ 
+
+Design Patterns for Compound AI Systems (Conversational AI, CoPilots & RAG)
+
+How to build configurable flows and compound AI systems using open source tools.
+
+ 
+
+  
+
+Gavin Li  ·
+
+3 min read
+
+ 
+
+Why It’s Extremely Hard to Start an AI Application Business with Large Language…
+
+The media hype surrounding AI might have you believe it’s soaring high above us, on the brink of rendering…
+
+ 
+
+  
+
+Suhaib Arshad   in Generative AI  ·
+
+10 min read
+
+ 
+
+Choosing the right RAG framework for your LLM: LlamaIndex or LangChain
+
+Large Language Models (LLMs) are among the top emergent AI technologies of this era. Back in Nov 2022, OpenAI…
+
+
+
+See more of what you like and less of what you don’t.
+
+
+
+Control your recommendations  
+
+
+
+Read from anywhere.
+
+
+
+  
+
+  
+
+Sent by Medium  ·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+
+Unsubscribe   from this type of email·Switch to the Weekly Digest  ·Careers  ·Help Center  ·Privacy Policy  ·Terms of service  
+
+  
+

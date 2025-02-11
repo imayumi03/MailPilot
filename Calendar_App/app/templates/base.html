@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}Dashboard{% endblock %}</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/chatbot.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/category.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/index.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/calendar.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    {% block head %}{% endblock %}
+  </head>
+  <body>
+    <div class="task-manager">
+      <div class="left-bar">
+        <div class="upper-part">
+          <div class="actions">
+            <div class="circle"></div>
+            <div class="circle-2"></div>
+          </div>
+        </div>
+        <div class="left-content">
+          <ul class="action-list">
+            <li class="my-button">
+              <a href="{{ url_for('main.home') }}">
+                <i class="fas fa-home"></i>
+                Accueil
+              </a>
+            </li>
+            <li class="my-button">
+              <a href="{{ url_for('main.calendar') }}">
+                <i class="fas fa-calendar-alt"></i>
+                Calendrier
+              </a>
+            </li>
+            <li class="my-button">
+              <a href="{{ url_for('main.chatbot') }}">
+                <i class="fas fa-comments"></i>
+                Chat Pilot
+              </a>
+            </li>
+            <li class="my-button folder-toggle">
+              <span>
+                <i class="fas fa-folder"></i>
+                Dossiers
+              </span>
+              <ul class="folder-content">
+                {% for category in categories %}
+                <li>
+                  <a
+                    href="{{ url_for('main.category', category_name=category) }}"
+                    >{{ category }}</a
+                  >
+                </li>
+                {% endfor %}
+                <li>
+                  <button id="open-category-popup">Ajouter Catégorie</button>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+
+        <div id="category-popup" class="category-popup">
+          <div class="popup-content">
+            <span class="close-popup">&times;</span>
+            <h2>Ajouter une Catégorie</h2>
+            <form
+              id="add-category-form"
+              action="{{ url_for('main.add_category') }}"
+              method="POST"
+            >
+              <label for="category-name">Nom de la Catégorie:</label>
+              <input
+                type="text"
+                id="category-name"
+                name="category-name"
+                required
+              />
+              <button type="submit">Ajouter</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="page-content">{% block content %}{% endblock %}</div>
+    </div>
+    <script>
+      document.getElementById("open-category-popup").onclick = function () {
+        document.getElementById("category-popup").style.display = "flex";
+      };
+
+      document.querySelector(".close-popup").onclick = function () {
+        document.getElementById("category-popup").style.display = "none";
+      };
+
+      window.onclick = function (event) {
+        if (event.target == document.getElementById("category-popup")) {
+          document.getElementById("category-popup").style.display = "none";
+        }
+      };
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script>
+      document
+        .querySelector(".folder-toggle")
+        .addEventListener("click", function () {
+          const folderContent = this.querySelector(".folder-content");
+          folderContent.style.display =
+            folderContent.style.display === "block" ? "none" : "block";
+        });
+    </script>
+    {% block scripts %}{% endblock %}
+  </body>
+</html>

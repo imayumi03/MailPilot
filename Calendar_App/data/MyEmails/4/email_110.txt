@@ -1,0 +1,53 @@
+Subject: Evaluation "Pilotage de projets" : Tableau de pilotage du PLBD
+Sender: Afaf JGHAMOU
+Received Time: 2024-05-21 17:07:39.108000+00:00
+Body: Bonjour à toutes et à tous,
+
+Dans le cadre de l'évaluation de vos compétences en gestion de projets, et comme énoncé dans le syllabus du cours, vous aurez à rendre un travail sur le pilotage de projets, appliqué au PLBD. Ce rendu compte pour 10% de la note global (en plus de la note d'examen et de la certification Coursera).
+
+Il vous est demandé de mesurer, avec la méthode EVM, votre avancement dans la phase de prototypage du PLBD. Vous avez, à votre disposition, en PJ et sur Edunao, un template Excel (avec quelques données d'illustration, à remplacer par les vôtres) que vous renseignerez et remettrez sur Edunao dans le délai fixé et sous le même format (Excel). 
+
+Il s'agit d'un travail de groupe, à remettre par un seul membre de l'équipe PLBD, en renseignant les noms de l'équipe PLBD sur le tableau 0.
+
+Dans ce fichier Excel vous disposez de 4 tableaux et d'un graphique :
+
+
+
+*	
+
+	Tableau 0 : liste les membres du groupe PLBD (y compris celui qui remet le livrable sur Edunao).
+
+*	
+
+	Tableau 1 : contient les données de votre projet : Tâches et leurs interactions, les durées, les coûts (en termes de temps). La phase étudiée étant le prototypage, vous pouvez la découper en 4 à 6 tâches à suivre (par ex : Approvisionnement matériel phase 1, Production prototype, Soutenance état d'avancement, Réapprovisionnement matériel phase 2, Conception poster, Rédaction rapport, Préparation foire...). Les durées de chaque tâche sont à spécifier en semaines mais les coût en heures effectives de travail. Pour illustration, si la production du prototype a un coût de 16h de travail effectif qui devrait être réparties sur 4 semaines, alors : Durée = 4 semaines et Coût = 16h. Renseignez les cellules bleues seulement. 
+
+*	
+
+	Tableau 2 : présente les données d'avancement de chacune des tâches de votre projet : PV (valeur planifiée), AC (dépense réelle), taux d'achèvement et EV (valeur acquise). Les PV peuvent être déduites du tableau 1. Les AC et les taux d'achèvement représentent vos données réelles de la semaine 1 de la phase de prototypage jusqu'à la semaine 10 (actuelle). Pour vous faciliter l'utilisation des formules Excel, j'ai illustré les activités A et B avec des données aléatoires. Renseignez les cellules bleues et complétez les formules pour le calcul des PV, AC et EV. 
+
+*	
+
+	Tableau 3 : présente les données d'avancement de l'ensemble votre projet (phase de prototypage) : PV, AC, EV, les variances et les indices de performance de la semaine 1 de la phase de prototypage jusqu'à la semaine 10. Les formules de calcul sont déjà saisies. Rien à renseigner, juste appréciez votre avancement.
+
+*	
+
+	Graphique : présente visuellement les 3 indicateurs PV, AC, et EV. Les données du graphique sont déjà sélectionnées, il se mettra à jour systématiquement après la saisie de vos données sur les tableaux 1 et 2. 
+
+
+
+Je reste à votre disposition s'il y a besoin de plus d'explications. 
+
+Bon courage à toutes et à tous.
+
+
+
+..............................................
+
+Afaf JGHAMOU
+
+Enseignant Chercheur
+
+UTER Industriel
+
+
+

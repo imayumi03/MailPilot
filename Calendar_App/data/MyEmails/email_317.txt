@@ -1,0 +1,17 @@
+Subject: Microsoft 365 security: You have messages in quarantine
+Sender: quarantine@messaging.microsoft.com
+Received Time: 2024-04-01 12:19:29.346000+00:00
+Body: 		
+
+	 <https://products.office.com> 
+
+Review These Messages	 
+
+1 messages are being held for you to review as of 4/1/2024 9:22:08 AM (UTC). 	
+
+Review them within 30 days of the received date by going to the Quarantine page <https://security.microsoft.com/quarantine>  in the Security Center. 	
+
+Prevented spam messages 	
+
+Sender: 	no-reply@1xbet.com 	 	  	 
+

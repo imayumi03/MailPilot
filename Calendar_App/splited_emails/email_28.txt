@@ -1,0 +1,275 @@
+Subject: ChatGPT As an OCR For PDFs: Your ETL Engine for Data Analysis | David Leibowitz in Towards AI
+Sender: Medium Daily Digest
+Received Time: 2024-06-17 07:40:24.216000+00:00
+Body:   
+
+  
+
+Stories for Marwane Kassa  
+
+@marwane.kassa  ·Become a member  
+
+  
+
+
+
+Today's highlights
+
+
+
+ 
+
+  
+
+David Leibowitz   in Towards AI  ·
+
+14 min read
+
+  
+
+ 
+
+ChatGPT As an OCR For PDFs: Your ETL Engine for Data Analysis
+
+Coding in English at the speed of thought
+
+ 
+
+  
+
+Ignacio de Gregorio  ·
+
+9 min read
+
+  
+
+ 
+
+My Thoughts on Apple Intelligence
+
+Leveling the Stakes & Betraying the Essence
+
+ 
+
+  
+
+Alex Pauken   in Ai-Ai-OH  ·
+
+4 min read
+
+  
+
+ 
+
+No, you aren’t going to make millions selling AI-generated children’s books…
+
+some kid and some dog chasing after a ball or whatever (made by me in Midjourney)
+
+ 
+
+  
+
+Grant Piper  ·
+
+5 min read
+
+  
+
+ 
+
+Why Can’t Robots Click The “I’m Not a Robot” Box On Websites?
+
+Clicking a tiny box tells Google all they need to know about your humanity
+
+ 
+
+  
+
+Matthias Dittrich   in UX Planet  ·
+
+5 min read
+
+ 
+
+Stop designing chat-based AI tools.
+
+It is time to evolve AI tools beyond prompt-based interfaces and consider new mental models.
+
+ 
+
+  
+
+Andrew Zuo  ·
+
+5 min read
+
+  
+
+ 
+
+Google Doesn’t Appreciate Flutter
+
+Another day, another, “Is Google going to kill Flutter post?” It’s almost comical at this point:
+
+ 
+
+  
+
+Woyera  ·
+
+6 min read
+
+  
+
+ 
+
+How I use the new GPT-4o on my own files with Python!
+
+If you’ve kept up with current AI news you will know that OpenAI just recently released their most advanced…
+
+ 
+
+  
+
+Rachel Greenberg   in Entrepreneurship Handbook  ·
+
+8 min read
+
+  
+
+ 
+
+A Secret Airbnb Scam Cracked the Code to 7-Figure Marketing
+
+This award-winning business duped even the most qualified critics and proved how one word can make (or cost…
+
+ 
+
+  
+
+Chedy Smaoui  ·
+
+8 min read
+
+ 
+
+How I code a Python Stock Screener & A.I. Sentiment Analysis to pick stocks.
+
+Finding stocks to invest in can be a long and tedious process. What if we used both A.I. and Python to create…
+
+ 
+
+  
+
+Alan Jones   in Towards Data Science  ·
+
+13 min read
+
+  
+
+ 
+
+From Data to Visualization with the OpenAI Assistants API and GPT-4o
+
+We explore the Code Completion tool from OpenAI’s Assistants API to create visualizations directly from data
+
+ 
+
+  
+
+Afan Khan   in JavaScript in Plain English  ·
+
+6 min read
+
+  
+
+ 
+
+Microsoft is ditching React
+
+Here’s why Microsoft considers React a mistake for Edge.
+
+ 
+
+  
+
+Hasan Ali Naqvi  ·
+
+4 min read
+
+  
+
+ 
+
+How We Revolutionized Information Extraction using LLMs in Just Two Weeks!
+
+Introduction
+
+ 
+
+  
+
+Yuma Ueno  ·
+
+6 min read
+
+ 
+
+Who is Pieter Levels, an entrepreneur who earns $300 million a year by…
+
+Hello! I’m Yuma Ueno( from Japan. I’m into AI Industry, and runnning my own…
+
+ 
+
+  
+
+Stephen Moore  ·
+
+6 min read
+
+  
+
+ 
+
+Social Media’s Death Spiral
+
+The slow yet steady destruction of these once-wonderful platforms is almost complete
+
+ 
+
+  
+
+Hayk Simonyan   in Level Up Coding  ·
+
+5 min read
+
+ 
+
+API Design 101: From Basics to Best Practices
+
+API design, from the basics to best practices.
+
+
+
+See more of what you like and less of what you don’t.
+
+
+
+Control your recommendations  
+
+
+
+Read from anywhere.
+
+
+
+  
+
+  
+
+Sent by Medium  ·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+
+Unsubscribe   from this type of email·Switch to the Weekly Digest  ·Careers  ·Help Center  ·Privacy Policy  ·Terms of service  
+
+  
+

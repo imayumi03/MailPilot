@@ -1,0 +1,273 @@
+Subject: dbt 1.8 it is just wow | Charles Verleyen in Astrafy
+Sender: Medium Daily Digest
+Received Time: 2024-06-19 07:40:22.782000+00:00
+Body:   
+
+  
+
+Stories for Marwane Kassa  
+
+@marwane.kassa  ·Become a member  
+
+  
+
+
+
+Today's highlights
+
+
+
+ 
+
+  
+
+Charles Verleyen   in Astrafy  ·
+
+8 min read
+
+ 
+
+dbt 1.8 it is just wow
+
+Introduction
+
+ 
+
+  
+
+Vishal Rajput   in AIGuys  ·
+
+11 min read
+
+  
+
+ 
+
+Prompt Engineering Is Dead: DSPy Is New Paradigm For Prompting
+
+DSPy Paradigm: Let’s program — not prompt — LLMs
+
+ 
+
+  
+
+Aaron Dinin, PhD   in Entrepreneurship Handbook  ·
+
+5 min read
+
+  
+
+ 
+
+What If a Half-Billion-Dollar Startup Exit Isn’t as Great as You Think?
+
+Every aspiring entrepreneur should learn the real math of a startup exit before launching a new company.
+
+ 
+
+  
+
+Naveenkumar Murugan   in Level Up Coding  ·
+
+4 min read
+
+  
+
+ 
+
+Build cloud Architecture Diagrams in 1 Minute (This Tool is Crazy Fast!)
+
+Using ChatGPT and Diagrams python package
+
+ 
+
+  
+
+Yanli Liu   in Towards Data Science  ·
+
+10 min read
+
+  
+
+ 
+
+Building Local RAG Chatbots Without Coding Using LangFlow and Ollama
+
+A Quick Way to Prototype RAG Applications Based on LangChain
+
+ 
+
+  
+
+Aniket Hingane   in Artificial Intelligence in Plain English  ·
+
+19 min read
+
+  
+
+ 
+
+Let’s Build One Person Business Using 100% AI
+
+AI made it possible for 9-to-5 workers to start a one-person business without quitting their jobs.
+
+ 
+
+  
+
+Dr. Walid Soula   in ILLUMINATION’S MIRROR  ·
+
+3 min read
+
+  
+
+ 
+
+How Many GPUs Do You Really Need for Model Training?
+
+Are you intrigued by the computational resources necessary for training and running a model? Let’s dive in
+
+ 
+
+  
+
+Miha Rajšter  ·
+
+5 min read
+
+ 
+
+10 Cheap Desk Upgrades Every Programmer Needs #DeskSeries
+
+You’ve undoubtedly come across those ubiquitous “Top 10 Essential Desk Items Under $100” lists. For some…
+
+ 
+
+  
+
+Thomas Reid   in AI Advances  ·
+
+10 min read
+
+  
+
+ 
+
+New Pandas rival, FireDucks, brings the smoke!
+
+Pandas goes head-to-head with a new competitor
+
+ 
+
+  
+
+Michelle Coventry  ·
+
+11 min read
+
+ 
+
+Founder Compensation 2024
+
+Insights into early-stage entrepreneur compensation in Europe
+
+ 
+
+  
+
+J I L L I A N   in ILLUMINATION  ·
+
+4 min read
+
+  
+
+ 
+
+How Much YouTube Paid Me for 600 Videos with 2.8M Views in 9 Months
+
+The Reality of Music Reaction Video Earnings
+
+ 
+
+  
+
+Meng Li   in The Pythoneers  ·
+
+4 min read
+
+  
+
+ 
+
+Google Lays Off Flutter and Dart Teams Following Python Team Cuts
+
+The Truth Behind Google’s Mass Layoffs: How Tech Giants Adapt in the Era of AI
+
+ 
+
+  
+
+Sarath Krishnan   in Stackademic  ·
+
+2 min read
+
+ 
+
+Flutter Storm 4.0 is coming.
+
+I recently read a surprising claim that Flutter is dead. As someone keen on learning and mastering Flutter…
+
+ 
+
+  
+
+Datadrifters  ·
+
+19 min read
+
+  
+
+ 
+
+Llama 3 Powered Voice Assistant: Integrating Local RAG with Qdrant, Whisper…
+
+Voice-enabled AI applications will forever change how we interact with technology.
+
+ 
+
+  
+
+Yumo Bai  ·
+
+8 min read
+
+ 
+
+Why are most LLMs decoder-only?
+
+Dive into the rabbit hole of recent advancement in Large Language Models
+
+
+
+See more of what you like and less of what you don’t.
+
+
+
+Control your recommendations  
+
+
+
+Read from anywhere.
+
+
+
+  
+
+  
+
+Sent by Medium  ·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+
+Unsubscribe   from this type of email·Switch to the Weekly Digest  ·Careers  ·Help Center  ·Privacy Policy  ·Terms of service  
+
+  
+

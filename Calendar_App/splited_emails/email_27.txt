@@ -1,0 +1,115 @@
+Subject: 📅 RSVP: Getting started with Atlas Search on June 26th
+Sender: MongoDB
+Received Time: 2024-06-17 15:03:10.700000+00:00
+Body: 	Vous ne recevez pas souvent de courriers de la part de mongodb@team.mongodb.com. Découvrez pourquoi cela est important  
+
+	
+
+  
+
+Register for our Webinar!  
+
+
+
+View in browser  
+
+
+
+  
+
+ 	 
+
+
+
+Hi Marwane,
+
+
+
+ 
+
+
+
+Join us on Wednesday, June 26th at 11 A.M. ET for our upcoming webinar, Intro to Atlas Search  , where we'll be demonstrating a few key search capabilities including: 
+
+
+
+*	Searching with different data types such as text, numbers, dates, and GeoJSON
+
+*	Using the API when building with MongoDB Atlas Search
+
+*	Building and editing search indexes and queries using the visual editor
+
+
+
+If this date doesn't work for you, don't worry! We have a few more for you to choose from on the registration page.
+
+
+
+ 
+
+
+
+Don’t miss the chance to learn about Atlas Search from our Search experts and get your questions answered live!
+
+
+
+Register now   
+
+
+
+Think Big, Go Far,
+
+
+
+The MongoDB Team
+
+
+
+ 	 
+
+
+
+   
+
+  
+
+ 	   
+
+  
+
+ 	   
+
+  
+
+ 	   
+
+  
+
+ 	   
+
+  
+
+ 	   
+
+  
+
+ 
+
+
+
+Copyright © 2024 MongoDB, All rights reserved.
+
+
+
+1633 Broadway, Floor 38, New York, NY 10019
+
+Click here to unsubscribe   
+
+
+
+ 
+
+
+
+  
+

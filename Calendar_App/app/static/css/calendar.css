@@ -1,0 +1,164 @@
+#calendar-page #calendar-container {
+  margin-bottom: 50px;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+#calendar-page #calendar-container .toolbar-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#calendar-page #calendar-container .toolbar-buttons .left-buttons,
+#calendar-page #calendar-container .toolbar-buttons .right-button {
+  display: flex;
+  align-items: center;
+}
+
+#calendar-page #calendar-container .toolbar-buttons .btn {
+  margin: 0 10px 10px 0;
+}
+
+#calendar-page #calendar-container #calendar {
+  max-height: 520px; /* Set the desired height */
+  overflow-y: auto;
+}
+
+#calendar-page .fc-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#calendar-page .fc-toolbar .fc-button-group {
+  display: flex;
+  align-items: center;
+}
+
+#calendar-page .fc .fc-button-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+#calendar-page .fc .fc-button-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+#calendar-page .fc .fc-button-primary:focus {
+  box-shadow: none;
+}
+
+#calendar-page .fc .fc-today-button {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+#calendar-page .fc .fc-today-button:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+#calendar-page .fc-daygrid-event {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+  border-radius: 4px;
+}
+
+#calendar-page .fc-daygrid-event:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+#calendar-page .fc-daygrid-day-number {
+  color: #333;
+}
+
+#calendar-page #calendar-container #calendar::-webkit-scrollbar {
+  width: 4px;
+}
+
+#calendar-page #calendar-container #calendar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+#calendar-page #calendar-container #calendar::-webkit-scrollbar-thumb {
+  background: #3f51b5;
+  border-radius: 8px;
+}
+
+#calendar-page #calendar-container #calendar::-webkit-scrollbar-thumb:hover {
+  background: #3f51b5;
+}
+
+/* Ajout des styles pour le modal */
+.modal {
+  display: none; /* Cacher le modal par défaut */
+  position: fixed; /* Positionner le modal en premier plan */
+  z-index: 1050; /* Assurer que le modal est en premier plan */
+  padding-top: 0; /* Ajouter un espace en haut du modal */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0); /* Ajouter un fond sombre */
+  background-color: rgba(0, 0, 0, 0.4); /* Ajouter une opacité au fond */
+}
+
+.modal-dialog {
+  position: relative;
+  margin: auto;
+  top: 5%;
+  width: 80%;
+  max-width: 500px;
+}
+
+.modal-content {
+  background-color: #fff;
+  border: 1px solid #888;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+/* Styles pour le bouton fermer */
+.modal-header .close {
+  margin: -10px -10px -10px auto;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  opacity: 0.5;
+}
+
+.modal-header .close:hover {
+  color: #000;
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+/* Autres styles pour le modal */
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e9ecef;
+  padding-bottom: 1rem;
+}
+
+.modal-title {
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+.modal-body {
+  position: relative;
+  flex: 1 1 auto;
+  padding: 1rem;
+}

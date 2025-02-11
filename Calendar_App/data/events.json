@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Examen Théorie des graphes",
+        "start": "2024-06-07T08:30:00",
+        "end": "2024-06-07T10:30:00",
+        "description": "Examen session normale Théorie des graphes",
+        "location": "Omni sport"
+    },
+    {
+        "title": "Réunion avec le tuteur",
+        "start": "2024-06-10T10:00:00",
+        "end": "2024-06-10T11:00:00",
+        "description": "Discussion des besoins du client et des spécifications du projet",
+        "location": "Salle de réunion - F201"
+    },
+    {
+        "title": "Youssef and Ismail Exams",
+        "start": "2024-06-11T15:00:00",
+        "end": "2024-06-11T16:00:00",
+        "description": "Préparation examen",
+        "location": "Bibliothèque"
+    },
+    {
+        "title": "Rattrapage Théorie des graphes",
+        "start": "2024-06-14T14:00:00",
+        "end": "2024-06-14T16:00:00",
+        "description": "Examen session rattrapage Théorie des graphes",
+        "location": "Omni sport"
+    },
+    
+    {
+        "title": "Examen Modèle linéaire",
+        "start": "2024-06-12T14:00:00",
+        "end": "2024-06-12T15:00:00",
+        "description": "Examen final pour le cours de Modèle linéaire",
+        "location": "Amphi 2"
+    },
+    {
+        "title": "Examen quantique",
+        "start": "2024-06-13T09:00:00",
+        "end": "2024-06-13T10:00:00",
+        "description": "Examen final pour le cours de Mécanique quantique",
+        "location": "Amphi 3"
+    },
+    {
+        "title": "Examen TCM",
+        "start": "2024-06-14T11:00:00",
+        "end": "2024-06-14T12:00:00",
+        "description": "Examen final pour le cours de Théorie des circuits",
+        "location": "Amphi 4"
+    },
+    {
+        "title": "Soutenance PLBD",
+        "start": "2024-06-15T08:00:00",
+        "end": "2024-06-15T09:00:00",
+        "description": "Soutenance du projet de fin d'études PLBD",
+        "location": "Salle de conférence 1"
+    },
+    {
+        "title": "Réunion tuteur",
+        "start": "2024-06-16T10:00:00",
+        "end": "2024-06-16T11:00:00",
+        "description": "Réunion de suivi avec le tuteur de stage",
+        "location": "Bureau du tuteur"
+    },
+    {
+        "title": "Présentation projet",
+        "start": "2024-06-17T14:00:00",
+        "end": "2024-06-17T15:00:00",
+        "description": "Présentation de l'avancement du projet aux investisseurs",
+        "location": "Salle de réunion 2"
+    },
+    {
+        "title": "Conférence sur l'IA",
+        "start": "2024-06-19T13:00:00",
+        "end": "2024-06-19T14:00:00",
+        "description": "Conférence sur les avancées en intelligence artificielle",
+        "location": "Auditorium"
+    },
+    {
+        "title": "LBD Meeting",
+        "start": "2024-06-23T07:00:00",
+        "end": "2024-06-23T09:00:00",
+        "description": "LBD Meeting LBD MeetingLBD MeetingLBD Meeting",
+        "location": "Remote"
+    },
+    {
+        "title": "Rencontre réseau",
+        "start": "2024-06-20T16:00:00",
+        "end": "2024-06-20T17:00:00",
+        "description": "Rencontre pour étendre le réseau professionnel",
+        "location": "Hall principal"
+    },
+    {
+        "title": "Webinaire sur le machine learning",
+        "start": "2024-06-21T18:00:00",
+        "end": "2024-06-21T19:00:00",
+        "description": "Webinaire en ligne sur le machine learning",
+        "location": "En ligne"
+    },
+    {
+        "title": "Réunion de clôture",
+        "start": "2024-06-23T15:00:00",
+        "end": "2024-06-23T16:00:00",
+        "description": "Réunion de clôture de projet avec toute l'équipe",
+        "location": "Salle de réunion principale"
+    }
+]

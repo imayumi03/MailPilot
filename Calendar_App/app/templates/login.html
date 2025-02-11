@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>LOGIN - Dashboard</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no"
+    />
+    <meta
+      name="description"
+      content="Interface de connexion pour le tableau de bord UBAC"
+    />
+    <link
+      href="{{ url_for('static', filename='css/main.d810cf0ae7f39f28f336.css') }}"
+      rel="stylesheet"
+    />
+    <link
+      rel="shortcut icon"
+      type="images/png"
+      href="{{ url_for('static', filename='images/favicon.png') }}"
+    />
+    <style>
+      body {
+        cursor: url("{{ url_for("static", filename="images/cursor.cur") }}"),
+          auto; /* Adjust the path as needed */
+      }
+      .btn-login {
+        transition: background-color 0.3s, transform 0.3s;
+      }
+      .btn-login:hover {
+        background-color: #007bff;
+        transform: scale(1.05);
+      }
+      .alert {
+        transition: box-shadow 0.3s;
+        cursor: pointer; /* Change cursor on hover over the alert */
+      }
+      .alert:hover {
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+      }
+      .centered-alert {
+        width: 100%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app-container app-theme-white body-tabs-shadow">
+      <div class="h-100 bg-plum-plate bg-animation">
+        <div class="d-flex h-100 justify-content-center align-items-center">
+          <div class="mx-auto app-login-box col-md-8">
+            <div class="app-logo-inverse mx-auto mb-3"></div>
+            <div class="modal-dialog w-100 mx-auto">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <div class="h5 modal-title text-center">
+                    <h4 class="mt-2">
+                      <div>Bienvenue,</div>
+                      <span>Veuillez vous connecter à votre compte.</span>
+                    </h4>
+                  </div>
+                  <form method="post">
+                    <div class="form-row">
+                      <div class="col-md-12">
+                        <div class="position-relative form-group">
+                          <input
+                            name="username"
+                            id="username"
+                            placeholder="Nom d'utilisateur"
+                            type="text"
+                            class="form-control"
+                            required
+                          />
+                        </div>
+                      </div>
+                      <div class="col-md-12">
+                        <div class="position-relative form-group">
+                          <input
+                            name="password"
+                            id="password"
+                            placeholder="Mot de passe"
+                            type="password"
+                            class="form-control"
+                            required
+                          />
+                        </div>
+                      </div>
+                      {% with messages =
+                      get_flashed_messages(with_categories=true) %} {% if
+                      messages %} {% set last_message = messages[-1] %}
+                      <div
+                        class="alert alert-{{ last_message[0] }} centered-alert"
+                      >
+                        {{ last_message[1] }}
+                      </div>
+                      {% endif %} {% endwith %}
+                    </div>
+                    <div class="modal-footer clearfix">
+                      <div class="float-right">
+                        <button
+                          type="submit"
+                          class="btn btn-primary btn-lg btn-login"
+                        >
+                          Connexion au Dashboard
+                        </button>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="text-center text-white opacity-8 mt-3">
+              Copyright © Groupe_LBD1
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script
+      type="text/javascript"
+      src="{{ url_for('static', filename='js/main.d810cf0ae7f39f28f336.js') }}"
+    ></script>
+  </body>
+</html>

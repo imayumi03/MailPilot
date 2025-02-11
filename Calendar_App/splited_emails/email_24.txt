@@ -1,0 +1,277 @@
+Subject: 6 Profitable Micro SaaS Ideas in 2024 | Luca Restagno
+Sender: Medium Daily Digest
+Received Time: 2024-06-18 07:40:22.755000+00:00
+Body:   
+
+  
+
+Stories for Marwane Kassa  
+
+@marwane.kassa  ·Become a member  
+
+  
+
+
+
+Today's highlights
+
+
+
+ 
+
+  
+
+Luca Restagno  ·
+
+5 min read
+
+ 
+
+6 Profitable Micro SaaS Ideas in 2024
+
+The term MicroSaaS refers to a category of software-as-a-service (SaaS) businesses that target a narrow…
+
+ 
+
+  
+
+Gabe Araujo, M.Sc.   in Level Up Coding  ·
+
+9 min read
+
+  
+
+ 
+
+Introducing Python 4.0: Say Goodbye to These 12 Beloved Features
+
+12 Ways Python 4.0 Will Break Your Heart (and Your Code)
+
+ 
+
+  
+
+Peter Mukherjee   in ILLUMINATION  ·
+
+5 min read
+
+  
+
+ 
+
+Whenever I Forget Someone’s Name, I Always Use This Brilliant Hack
+
+Avoid potentially embarrassing situations at functions or while networking by remembering this brilliant…
+
+ 
+
+  
+
+Balazs Kocsis  ·
+
+5 min read
+
+  
+
+ 
+
+Run Ollama on Nvidia Jetson devices
+
+Comparison of small LLM on Nvidia Jetson developer boards — running locally, maximum privacy, low-cost and…
+
+ 
+
+  
+
+zhaozhiming   in AI Advances  ·
+
+17 min read
+
+  
+
+ 
+
+Advanced RAG Retrieval Strategy: Embedded Tables
+
+One of the most challenging aspects of RAG (Retrieval Augmented Generation) applications is how to handle the…
+
+ 
+
+  
+
+Mandar Karhade, MD. PhD.   in Towards AI  ·
+
+6 min read
+
+  
+
+ 
+
+PowerInfer: 11x Speed up LLM Inference On a Local GPU
+
+Some neurons are HOT! Some are cold! A clever way of using GPU-CPU hybrid interface to achieve impressive…
+
+ 
+
+  
+
+Avinash  ·
+
+5 min read
+
+  
+
+ 
+
+RAG implementation using custom dataset — Openai, LLM
+
+RAG stands for Retrieval-Augmented Generation, which is a natural language processing (NLP) technique that…
+
+  
+
+Ling Huang  ·
+
+6 min read
+
+  
+
+ 
+
+Recommendation Systems using LLM, Part 1
+
+The world knowledge compressed by large language models, the emergence ability of large language models, and…
+
+ 
+
+  
+
+Paras Madan   in GoPenAI  ·
+
+5 min read
+
+ 
+
+Building a Multi PDF RAG Chatbot: Langchain, Streamlit with code
+
+Talking to big PDF’s is cool. You can chat with your notes, books and documents etc. This blog post will help…
+
+ 
+
+  
+
+Lars Wiik  ·
+
+13 min read
+
+  
+
+ 
+
+Best Embedding Model 🌟 — OpenAI / Cohere / Google / E5 / BGE
+
+An In-depth Comparison of Multilingual Embedding Models
+
+ 
+
+  
+
+Paul Iusztin   in Decoding ML  ·
+
+16 min read
+
+ 
+
+An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM…
+
+From data gathering to productionizing LLMs using LLMOps good practices.
+
+ 
+
+  
+
+Chandan Durgia   in An Idea (by Ingenious Piece)  ·
+
+7 min read
+
+  
+
+ 
+
+Embedding: Types, Use cases and Evaluation (Part 3 of RAG Series)
+
+Making computers understand Text
+
+ 
+
+  
+
+Ignacio de Gregorio  ·
+
+11 min read
+
+  
+
+ 
+
+Anthropic’s Breakthrough: Understanding Frontier AI
+
+A Great Leap In Understanding LLMs
+
+ 
+
+  
+
+Stan  ·
+
+6 min read
+
+  
+
+ 
+
+Build a 100% Free, Traceable, and Secure RAG Chatbot Using Reranker and GPT-4o
+
+Hong T., Jing W. Jing Z. and Luchao J.
+
+ 
+
+  
+
+Ángel Molina Laguna  ·
+
+2 min read
+
+  
+
+ 
+
+ChatBots vs AI Assistant vs AI Agent
+
+Are you aware of what’s coming in the world of Artificial Intelligence? If you think assistants like ChatGPT…
+
+  
+
+
+
+See more of what you like and less of what you don’t.
+
+
+
+Control your recommendations  
+
+
+
+Read from anywhere.
+
+
+
+  
+
+  
+
+Sent by Medium  ·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+
+Unsubscribe   from this type of email·Switch to the Weekly Digest  ·Careers  ·Help Center  ·Privacy Policy  ·Terms of service  
+
+  
+

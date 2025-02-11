@@ -1,0 +1,275 @@
+Subject: Text-to-SQL LLM Applications: Prompt Injections | Ian Ho in Towards Data Science
+Sender: Medium Daily Digest
+Received Time: 2024-06-16 07:40:37.341000+00:00
+Body:   
+
+  
+
+Stories for Marwane Kassa  
+
+@marwane.kassa  ·Become a member  
+
+  
+
+
+
+Today's highlights
+
+
+
+ 
+
+  
+
+Ian Ho   in Towards Data Science  ·
+
+8 min read
+
+  
+
+ 
+
+Text-to-SQL LLM Applications: Prompt Injections
+
+Learn how your Text-to-SQL LLM app may be vulnerable to Prompt Injections, and mitigation measures you could…
+
+ 
+
+  
+
+zhaozhiming   in Generative AI  ·
+
+12 min read
+
+  
+
+ 
+
+Advanced RAG Retrieval Strategies: Hybrid Retrieval
+
+There is an old Chinese saying: “兼听则明，偏信则暗”. This means that to correctly understand something, you need to…
+
+ 
+
+  
+
+Valentina Alto   in Microsoft Azure  ·
+
+20 min read
+
+  
+
+ 
+
+Introducing GraphRAG with LangChain and Neo4j
+
+Part 2: Implementing and evaluating a GraphRAG application
+
+ 
+
+  
+
+A B Vijay Kumar  ·
+
+5 min read
+
+ 
+
+Multi-Agent Architectures
+
+Multi-Agent systems are LLM applications that are changing the automation landscape with intelligent bots.
+
+ 
+
+  
+
+Angelina Yang  ·
+
+3 min read
+
+  
+
+ 
+
+How to Integrate Knowledge Graph to Your RAG Systems?
+
+In the ever-evolving landscape of natural language processing (NLP), the integration of knowledge graphs…
+
+ 
+
+  
+
+Björn Runåker  ·
+
+13 min read
+
+  
+
+ 
+
+Unlocking the Power of Language Models: Combining LiteLLM and vLLM for Highly…
+
+Introduction In the rapidly developing landscape of artificial intelligence, harnessing the capabilities of…
+
+ 
+
+  
+
+Mark OBrien  ·
+
+10 min read
+
+  
+
+ 
+
+Mastering RAG: Local Intelligent Apps with Langchain & Ollama
+
+Full code available on Github. Today we’re going to walk through implementing your own local LLM RAG app…
+
+ 
+
+  
+
+Xinran Ma   in Bootcamp  ·
+
+4 min read
+
+ 
+
+How to create hand-drawn like diagrams with AI
+
+Speed up the process to under a minute
+
+ 
+
+  
+
+Edwindoit  ·
+
+5 min read
+
+ 
+
+Killer apps to organize your digital workspace — 2024 edition
+
+This is the digital setup I use to be more effective in 2024. The purpose of my workspace is to optimize…
+
+ 
+
+  
+
+Willem Koenders   in ZS Associates  ·
+
+16 min read
+
+ 
+
+From data to decisions: Leveraging Generative AI and data products
+
+Abhinav Batra and I were invited to speak at the Pharma SOS Conference. Learn more about our favorite topics…
+
+ 
+
+  
+
+Joe Procopio   in Entrepreneurship Handbook  ·
+
+6 min read
+
+  
+
+ 
+
+The Tech Industry Has Stopped Building Things Customers Want
+
+Consumers and business don’t want new technology, they want the benefits of new technology
+
+ 
+
+  
+
+Aniket Hingane  ·
+
+10 min read
+
+  
+
+ 
+
+Cognita : A Truly Unified RAG Framework : Part 1
+
+Seamlessly Parse, Precisely Retrieve, Intelligently Generate & Effortlessly Deploy, let’s go…
+
+ 
+
+  
+
+Yeyu Huang   in Level Up Coding  ·
+
+7 min read
+
+  
+
+ 
+
+How to Implement a Simple UI for CrewAI applications
+
+A Quick Tutorial of CrewAI + Streamlit
+
+ 
+
+  
+
+Ling Huang  ·
+
+12 min read
+
+  
+
+ 
+
+Recommendation Systems using LLM, Part 3
+
+The e-commerce recommendation system (Recommend System, RecSys) is a personalized system based on users’…
+
+ 
+
+  
+
+Aaron Dinin, PhD   in The Startup  ·
+
+4 min read
+
+  
+
+ 
+
+Are You Accidentally Building the Second Hardest Type of Startup?
+
+Most people don’t even realize the problem until it’s too late
+
+
+
+See more of what you like and less of what you don’t.
+
+
+
+Control your recommendations  
+
+
+
+Read from anywhere.
+
+
+
+  
+
+  
+
+Sent by Medium  ·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+
+Unsubscribe   from this type of email·Switch to the Weekly Digest  ·Careers  ·Help Center  ·Privacy Policy  ·Terms of service  
+
+  
+

@@ -1,0 +1,201 @@
+Subject: Compléments d'information sur le stage de césure (1 an) au CEA. IA générative et développement de matériaux
+Sender: JeanPierre LLORED
+Received Time: 2024-04-04 17:25:56.450000+00:00
+Body: Bonjour,
+
+
+
+ 
+
+
+
+Merci aux 10 élèves qui m’ont déjà écrit pour le stage de césure que je peux proposer, vraisemblablement ce sera un stage de 1 an qui se profile.
+
+
+
+ 
+
+
+
+Le CEA m’a demandé de présélectionner des dossiers (2 ou 3) et de leur faire remonter. Je travaille directement depuis des années avec le directeur de la stratégie des CEA en France. 
+
+
+
+ 
+
+
+
+Voici quelques informations sur le sujet (je mets les 1A en copie car j’aurai 3 césures au CEA à proposer l’an prochain afin qu’ils sachent que cette possibilité existe). 
+
+
+
+ 
+
+
+
+Le CEA travaille depuis des années sur le développement de matériaux et de procédés permettant de conditionner les déchets nucléaires, en particulier les matrices cimentaires et les matrices vitreuses. Les matériaux à base de ciment sont utilisés dans l’industrie nucléaire pour le conditionnement et le stockage des déchets radioactifs de faible et moyenne activité, alors que les matériaux vitreux servent à conditionner les déchets hautement radioactifs.
+
+
+
+Le sujet de stage s’intéressera à :
+
+
+
+*	En utilisant l’IA générative, constituer une base de données intégrant des données métier à partir de données de la littérature et de notes internes. A partir de cette BDD, développer des algorithmes de prédiction en Machine Learning
+
+*	Développer des algorithmes de prédiction de pannes ou de dérives d’un procédé en production grâce à l’analyse de données temporelles. Le travail de préparation des données ayant été fait en 2023-2024, l’idée est de mieux exploiter ce dataset pour l’assistance au pilotage de procédé. 
+
+
+
+Je suis actuellement en congés mais je reste toutefois actif pour ce type de dossier.
+
+
+
+ 
+
+
+
+Bien à vous,
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Département SHS
+
+
+
+             
+
+
+
+ 
+
+
+
+Dr. Jean-Pierre Noël LLORED
+
+
+
+Associate Professor in Humanities and Social Sciences, Foundation Ecole Centrale Casablanca, Morocco
+
+
+
+Associate Professor attached to the Department of Humanities and Social Sciences, Ecole CentraleSupélec, France
+
+
+
+Permanent member of Research Institute “Complex systems and interactions”, Foundation Ecole Centrale Casablanca, Morocco
+
+
+
+Habilitation to supervise research (“Habilitation à diriger des recherches-HDR”) in history of science and technology and in philosophy (Aix-Marseille University, February 2022)
+
+
+
+Coordinator of humanities and social sciences, Foundation Ecole Centrale Casablanca, Morocco
+
+
+
+Head of the Research Chair “Collective emergences and inclusive and sustainable development”, Foundation Ecole Centrale Casablanca, Morocco
+
+
+
+Associate researcher, IDHES-Ecole Normale Supérieure Paris-Saclay, UMR CNRS 8533, France
+
+
+
+Associate researcher, Centre Gilles Gaston Granger, UMR CNRS 7304, Aix-Marseille University, France
+
+
+
+Associate researcher, SPHERE, UMR CNRS 7219, Paris University, France
+
+
+
+Deputy Editor of the journal Foundations of Chemistry (Springer)
+
+
+
+Deputy Editor-in-chief in philosophy of the International Journal of Bioethics and the Ethics of Sciences
+
+
+
+JeanPierre.Llored@centrale-casablanca.ma <mailto:JeanPierre.Llored@centrale-casablanca.ma> 
+
+
+
+jean-pierre.llored@centralesupelec.fr <mailto:jean-pierre.llored@centralesupelec.fr> 
+
+
+
+________________________________
+
+
+
+Fondation Ecole Centrale Casablanca
+
+
+
+Ville Verte Côté Latéral Est – Bouskoura - Maroc
+
+
+
+ 
+
+
+
+Follow us on  <https://www.youtube.com/user/centralecasablanca>   <https://www.instagram.com/centralecasablanca/>   <https://www.linkedin.com/school/ecole-centrale-casablanca/mycompany/?viewAsMember=true>   <https://www.facebook.com/centralecasablanca>   <http://www.centrale-casablanca.ma/fr/> 
+
+
+
+ 
+
+
+
+ 
+
+
+
+Ce message peut contenir des informations confidentielles. S'il ne vous est pas destiné, merci de le détruire et d'informer immédiatement son émetteur. 
+
+
+
+This message may contain information that is confidential. If you are not the intended recipient, please advise the sender immediately and delete this message. 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+

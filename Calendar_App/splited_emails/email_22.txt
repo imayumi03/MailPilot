@@ -1,0 +1,349 @@
+Subject: LlamaIndex news 2024-06-18
+Sender: LlamaIndex
+Received Time: 2024-06-18 14:30:07.397000+00:00
+Body:   	
+
+  	
+
+
+
+Hey Llama Followers🦙
+
+ 
+
+
+
+Welcome to this week’s edition of the LlamaIndex newsletter! We’re bringing you an exciting set of updates and valuable resources from Mixture-of-Agents (MoA) paper as LlamaPack to how AtomicWork’s Atom AI assistant leverages LlamaIndex to boost productivity and manage data effectively. Be sure to check out our in-depth guides, educational tutorials, and webinars for deeper insights into our tools.
+
+ 
+
+
+
+
+
+🤩 The highlights:
+
+ 
+
+
+
+
+
+*	
+
+
+
+	Mixture-of-Agents (MoA) LlamaPack: We have integrated the Mixture-of-Agents (MoA) demonstrating that open-source LLMs can boost task capabilities. MoA outperforms GPT-4 Omni in the AlpacaEval 2.0 benchmarks. LlamaPack  , Tweet  .
+
+
+
+*	
+
+
+
+	TiDB Integration with LlamaIndex: PingCap has now integrated their TiDB database with our LlamaIndex’s knowledge graph functionality, making it available as an open-source project. Docs  , Tweet  .
+
+
+
+*	
+
+
+
+	RAG and Agents Cookbook: We have released a detailed cookbook on building RAG and Agents. This guide features enhanced observability through our LlamaIndex instrumentation module and ArizeAI. Notebook  , Tweet  .
+
+
+
+*	
+
+
+
+	AtomicWork’s Enterprise AI Assistant: AtomicWork’s enterprise AI assistant, Atom, leverages LlamaIndex to handle diverse data formats, boosting productivity and improving the employee experience. Check out the details in their detailed blog  .
+
+
+
+*	
+
+
+
+	Guide   to RAG Over Excel Files: Guide to use LlamaParse to accurately represent Excel files in a spatial grid format, enhancing data interpretation and reducing errors in question-answering.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+✨ Feature Releases and Enhancements:
+
+ 
+
+
+
+
+
+1.	
+
+
+
+	We have integrated Mixture-of-Agents (MoA) paper   from TogetherAI   as LlamaPack from demonstrating that open-source large language models (LLMs) can enhance task capabilities. The paper shows that MoA outperforms GPT-4 Omni in the AlpacaEval 2.0 benchmarks. LlamaPack  , Tweet  .
+
+
+
+2.	
+
+
+
+	PingCap   has integrated their TiDB database with our LlamaIndex’s knowledge graph functionality, now accessible as an open source project. Docs  , Tweet  .
+
+
+
+3.	
+
+
+
+	We have released a detailed cookbook on building RAG and Agents, featuring supercharged observability throughout the call stack, enabled by our LlamaIndex instrumentation module and ArizeAI. Notebook  , Tweet  .
+
+
+
+4.	
+
+
+
+	We have released the workshop slides and notebooks from our presentation on “Building an Advanced Research Agent on Databricks” at the Data AI Summit. This workshop focused on enhancing research assistants beyond the standard RAG setups. Slide deck  , Notebook1  , Notebook2  , Tweet  .
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+💡 Real-World Use cases:
+
+ 
+
+
+
+
+
+*	
+
+
+
+	AtomicWork’s enterprise AI assistant, Atom, utilizes LlamaIndex to handle various data formats, ensuring accurate and secure data retrieval. Atom enhances decision-making and manages unstructured data effectively, boosting productivity and improving the employee experience. Check out the details in their detailed blog  .
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+🗺️ Guides:
+
+ 
+
+
+
+
+
+*	
+
+
+
+	Guide   to RAG Over Excel Files using LlamaParse to accurately represent Excel files in a spatial grid format, enhancing data interpretation and reducing errors in question-answering.
+
+
+
+*	
+
+
+
+	Guide   to Building a Multimodal RAG Pipeline by Pavan Belagatti   using Claude-3 and SingleStoreDB.
+
+
+
+*	
+
+
+
+	Guide   to building fully local RAG application using MistralAI, Ollama and LlamaIndex.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+✍️ Tutorials:
+
+ 
+
+
+
+
+
+*	
+
+
+
+	Tomaz Bratanic  ’s tutorial   on constructing a knowledge graph, perform entity deduplication, design a custom graph retriever, and implement a question-answering flow.
+
+
+
+*	
+
+
+
+	Mervin Praison  ’s tutorial   on creating the core components of an agent defining tools, integrating them into an agent reasoning loop, and wrapping everything with a user interface. using local models and chainlit  .
+
+
+
+*	
+
+
+
+	Arkiti  ’s tutorial   on building a dynamic text-to-SQL solution using Llama 3 and GroqInc, highlighting the scalable and fast capabilities of SingleStoreDB Helios for multi-cloud deployments.
+
+
+
+*	
+
+
+
+	Kingzzm  ’s tutorial   on Advanced RAG Patterns detailing effective strategies for handling documents with embedded tables, utilizing tools like LlamaParse and Nougat for enhanced QA performance.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+📹 Webinar:
+
+ 
+
+
+
+
+
+*	
+
+
+
+	Webinar   on The Future of Web Agents with MultiOn. Div Garg   provided a full demo walkthrough and discuss the agentification of the internet.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*	Calling all enterprises: are you building with LlamaIndex? We are working hard to make LlamaIndex even more Enterprise-ready and have sneak peeks at our upcoming products available for partners. Interested? Get in touch.  
+
+	 
+
+
+
+*	Join our Discord   community for live discussions and support.
+
+	 
+
+*	Check out our GitHub   for the latest code releases and documentation.
+
+
+
+Thank you for being a part of the LlamaIndex community. We're here to help you unleash the power of LLMs over your data!
+
+ 
+
+
+
+Best regards,
+
+The LlamaIndex Team
+
+
+
+Unsubscribe  
+
+405 Howard Street, San Francisco, California 94105
+
+
+
+  
+

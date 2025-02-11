@@ -1,0 +1,272 @@
+{% extends "base.html" %} {% block title %}Calendrier{% endblock %} {% block
+content %}
+<div id="calendar-page">
+  <div id="calendar-container" class="calendar-container">
+    <div class="toolbar-buttons">
+      <div class="left-buttons">
+        <button id="addEventButton" class="btn btn-primary">
+          Ajouter un événement
+        </button>
+        <button id="deleteEventButton" class="btn btn-danger">
+          Supprimer un événement
+        </button>
+      </div>
+      <div class="right-button">
+        <button id="refreshButton" class="btn btn-info">Actualiser</button>
+      </div>
+    </div>
+    <div id="calendar"></div>
+  </div>
+
+  <!-- Modal for adding events -->
+  <div id="addEventModal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Ajouter un événement</h5>
+          <button
+            type="button"
+            class="close"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form id="addEventForm">
+            <div class="form-group">
+              <label for="eventTitle">Titre</label>
+              <input
+                type="text"
+                class="form-control"
+                id="eventTitle"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <label for="eventStart">Début</label>
+              <input
+                type="datetime-local"
+                class="form-control"
+                id="eventStart"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <label for="eventEnd">Fin</label>
+              <input
+                type="datetime-local"
+                class="form-control"
+                id="eventEnd"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <label for="eventDescription">Description</label>
+              <textarea
+                class="form-control"
+                id="eventDescription"
+                rows="3"
+              ></textarea>
+            </div>
+            <div class="form-group">
+              <label for="eventLocation">Lieu</label>
+              <input type="text" class="form-control" id="eventLocation" />
+            </div>
+            <button type="submit" class="btn btn-primary">Ajouter</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal for deleting events -->
+  <div id="deleteEventModal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Supprimer un événement</h5>
+          <button
+            type="button"
+            class="close"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form id="deleteEventForm">
+            <div class="form-group">
+              <label for="eventToDelete">Sélectionner un événement</label>
+              <select class="form-control" id="eventToDelete" required>
+                <option value="">-- Sélectionner un événement --</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-danger">Supprimer</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %} {% block head %}
+<link
+  href="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.11/main.min.css"
+  rel="stylesheet"
+/>
+<link
+  href="https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.11/main.min.css"
+  rel="stylesheet"
+/>
+<link
+  href="https://cdn.jsdelivr.net/npm/@fullcalendar/timegrid@6.1.11/main.min.css"
+  rel="stylesheet"
+/>
+<link
+  href="{{ url_for('static', filename='css/calendar.css') }}"
+  rel="stylesheet"
+/>
+<link href="https://unpkg.com/tippy.js@6/dist/tippy.css" rel="stylesheet" />
+{% endblock %} {% block scripts %}
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.11/locales/fr.js"></script>
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script src="https://unpkg.com/tippy.js@6"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    function loadCalendarEvents() {
+      fetch("/events")
+        .then((response) => response.json())
+        .then((events) => {
+          var calendarEl = document.getElementById("calendar");
+          var calendar = new FullCalendar.Calendar(calendarEl, {
+            initialView: "dayGridMonth",
+            headerToolbar: {
+              left: "prev,next today",
+              center: "title",
+              right: "dayGridMonth,timeGridWeek",
+            },
+            locale: "fr",
+            events: events,
+            themeSystem: "bootstrap",
+            height: "auto",
+            contentHeight: "auto",
+            scrollTime: "06:00:00",
+            slotMinTime: "06:00:00",
+            slotMaxTime: "22:00:00",
+            eventDidMount: function (info) {
+              tippy(info.el, {
+                content: info.event.extendedProps.description,
+                placement: "top",
+                theme: "light",
+              });
+            },
+          });
+          calendar.render();
+
+          // Event handling for add event button
+          document
+            .getElementById("addEventButton")
+            .addEventListener("click", function () {
+              $("#addEventModal").modal("show");
+            });
+
+          // Event handling for delete event button
+          document
+            .getElementById("deleteEventButton")
+            .addEventListener("click", function () {
+              loadEventsInDropdown(events);
+              $("#deleteEventModal").modal("show");
+            });
+
+          // Event handling for refresh button
+          document
+            .getElementById("refreshButton")
+            .addEventListener("click", function () {
+              fetch("/refresh_events", { method: "POST" })
+                .then((response) => response.json())
+                .then((data) => {
+                  if (data.success) {
+                    location.reload();
+                  }
+                });
+            });
+
+          // Handle add event form submission
+          document
+            .getElementById("addEventForm")
+            .addEventListener("submit", function (event) {
+              event.preventDefault();
+              var newEvent = {
+                title: document.getElementById("eventTitle").value,
+                start: document.getElementById("eventStart").value,
+                end: document.getElementById("eventEnd").value,
+                description: document.getElementById("eventDescription").value,
+                location: document.getElementById("eventLocation").value,
+              };
+              fetch("/add_event", {
+                method: "POST",
+                headers: {
+                  "Content-Type": "application/json",
+                },
+                body: JSON.stringify(newEvent),
+              })
+                .then((response) => response.json())
+                .then((data) => {
+                  if (data.success) {
+                    calendar.addEvent(newEvent);
+                    $("#addEventModal").modal("hide");
+                  }
+                });
+            });
+
+          // Handle delete event form submission
+          document
+            .getElementById("deleteEventForm")
+            .addEventListener("submit", function (event) {
+              event.preventDefault();
+              var selectedEventTitle =
+                document.getElementById("eventToDelete").value;
+              fetch("/delete_event", {
+                method: "POST",
+                headers: {
+                  "Content-Type": "application/json",
+                },
+                body: JSON.stringify({ title: selectedEventTitle }),
+              })
+                .then((response) => response.json())
+                .then((data) => {
+                  if (data.success) {
+                    var event = calendar
+                      .getEvents()
+                      .find((e) => e.title === selectedEventTitle);
+                    if (event) {
+                      event.remove();
+                      $("#deleteEventModal").modal("hide");
+                    }
+                  }
+                });
+            });
+        });
+    }
+
+    function loadEventsInDropdown(events) {
+      var dropdown = document.getElementById("eventToDelete");
+      dropdown.innerHTML =
+        '<option value="">-- Sélectionner un événement --</option>';
+      events.forEach(function (event) {
+        var option = document.createElement("option");
+        option.value = event.title;
+        option.textContent = `${event.title} - ${new Date(
+          event.start
+        ).toLocaleDateString("fr-FR")}`;
+        dropdown.appendChild(option);
+      });
+    }
+
+    loadCalendarEvents();
+  });
+</script>
+{% endblock %}

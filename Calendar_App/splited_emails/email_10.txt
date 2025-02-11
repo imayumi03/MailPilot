@@ -1,0 +1,279 @@
+Subject: Extract information automatically: No-code plus ChatGPT workflow | Sjoerd Tiemensma in Use AI
+Sender: Medium Daily Digest
+Received Time: 2024-06-22 07:40:22.577000+00:00
+Body:   
+
+  
+
+Stories for Marwane Kassa  
+
+@marwane.kassa  ·Become a member  
+
+  
+
+
+
+Today's highlights
+
+
+
+ 
+
+  
+
+Sjoerd Tiemensma   in Use AI  ·
+
+9 min read
+
+  
+
+ 
+
+Extract information automatically: No-code plus ChatGPT workflow
+
+Complete guide to a workflow that allows you to automatically extract any information from any sort of…
+
+ 
+
+  
+
+Marco Rodrigues   in Python in Plain English  ·
+
+13 min read
+
+  
+
+ 
+
+How to Make Python Forms as a Pro
+
+Learn how to use Flask-WTF with Jinja templates to build outstanding forms that can be used for the most…
+
+ 
+
+  
+
+Rachel Greenberg   in Entrepreneurship Handbook  ·
+
+9 min read
+
+  
+
+ 
+
+5 Multi-Million-Dollar Businesses You Can Start Now (That Are Fun, Scalable, &…
+
+You don’t need to learn coding, be instafamous, employ AI, or raise venture capital to start these…
+
+ 
+
+  
+
+Henrique Centieiro & Bee Lee   in Limitless Investor  ·
+
+6 min read
+
+  
+
+ 
+
+52% Returns in 30 Days: Your GPT-4o Quant Trading Bot Strategy
+
+How to Profit in Any Market Condition with GPT-4o’s Mean Regression Strategies
+
+ 
+
+  
+
+Axel Schwanke  ·
+
+27 min read
+
+ 
+
+Semantic Layer — One Layer to Serve Them All
+
+Bridging the Gap between Technology and Business
+
+ 
+
+  
+
+Tessa Schlesinger Global Atheist Am Yisrael Chai.   in Tessa’s Web-log  ·
+
+7 min read
+
+  
+
+ 
+
+How Do You Recognize Someone Truly Intelligent?
+
+There is only one characteristic that separates them from others.
+
+ 
+
+  
+
+Aditya Darekar   in Mac O’Clock  ·
+
+12 min read
+
+ 
+
+How Apple Notes is a silent game-changer for your productivity on Mac
+
+In a world full of Notion, Evernote and Obsidian users, an app like Apple Notes might come off as too primary…
+
+ 
+
+  
+
+Mark OBrien  ·
+
+8 min read
+
+  
+
+ 
+
+Building Knowledge Graphs with LangChain & Neo4J
+
+Knowledge Graphs
+
+ 
+
+  
+
+Vishal Rajput   in AIGuys  ·
+
+10 min read
+
+  
+
+ 
+
+TextGrad: Controlling LLM Behavior Via Text
+
+TextGrad backpropagates textual feedback provided by LLMs to improve individual components of a compound AI…
+
+ 
+
+  
+
+Jan Kammerath  ·
+
+7 min read
+
+  
+
+ 
+
+Underground AI — Unlimited Chat & Image Generation On Your Computer
+
+Most people have heard of ChatGPT, Microsoft’s Copilot, Google Gemini or the image generator DALL-E. If…
+
+ 
+
+  
+
+Thomas Reid   in AI Advances  ·
+
+9 min read
+
+  
+
+ 
+
+Improving LLMs with OLLAMA and RAG
+
+Enhancing Language Models for Next-Gen Applications
+
+ 
+
+  
+
+The PyCoach   in Artificial Corner  ·
+
+5 min read
+
+  
+
+ 
+
+ChatGPT Users Will Love These Amazing GPT-4o Use Cases
+
+Ten use cases for the new GPT-4o.
+
+ 
+
+  
+
+Andrew Best   in Artificial Intelligence in Plain English  ·
+
+3 min read
+
+  
+
+ 
+
+Did Google just Kill Perplexity AI?
+
+Is Google’s new AI overview a direct attack on Perplexity?
+
+ 
+
+  
+
+Simone Tedeschi   in Generative AI  ·
+
+5 min read
+
+  
+
+ 
+
+The Most Comprehensive LLM Course on GitHub
+
+The 2024 Guide to Mastering Large Language Models
+
+ 
+
+  
+
+KayDee   in Predict  ·
+
+6 min read
+
+ 
+
+You Need To Learn AI in 2024! (And Here Is Your Roadmap)
+
+Photo by Maximalfocus on Unsplash
+
+  
+
+
+
+See more of what you like and less of what you don’t.
+
+
+
+Control your recommendations  
+
+
+
+Read from anywhere.
+
+
+
+  
+
+  
+
+Sent by Medium  ·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+
+Unsubscribe   from this type of email·Switch to the Weekly Digest  ·Careers  ·Help Center  ·Privacy Policy  ·Terms of service  
+
+  
+
